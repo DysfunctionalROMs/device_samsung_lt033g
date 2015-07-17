@@ -2,13 +2,13 @@
     {
         "remote": "github",
         "repository": "ShevT/kernel_samsung_lt033g",
-        "branch": "cm-12.0",
+        "branch": "cm-12.1",
         "target_path": "kernel/samsung/lt033g"
     },
     {
         "remote": "github",
         "repository": "cyanogenmod/android_hardware_samsung",
-        "branch": "cm-12.0",
+        "branch": "cm-12.1",
         "target_path": "hardware/samsung"
     },
     {
@@ -40,11 +40,5 @@
         "repository": "ShevT/vendor_samsung_lt033g",
         "branch": "cm-12.1",
         "target_path": "vendor/samsung/lt033g"
-    },
-    {
-        "remote": "github",
-        "repository": "cyanogenmod/android_packages_apps_SamsungServiceMode",
-        "branch": "cm-12.0",
-        "target_path": "packages/apps/SamsungServiceMode"
     }
 ]
